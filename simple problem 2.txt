@@ -1,0 +1,7 @@
+harry=int(input())
+ron=int(input())
+hermione=int(input())
+if(harry>ron)and(harry>hermione):
+    print("harry got he most points")
+else:
+    print("hermione got the most points")
